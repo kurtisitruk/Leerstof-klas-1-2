@@ -11,6 +11,4 @@ public class StringCalculator {
         Integer.parseInt(n); // returns integer 5
     }
 
-    public int calculate(String s) {
-    }
 }
